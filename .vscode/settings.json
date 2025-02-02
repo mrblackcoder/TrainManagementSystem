@@ -1,0 +1,15 @@
+{
+      "files.associations": {
+            "wagon.h": "c",
+            "material.h": "c",
+            "utils.h": "c",
+            "train.h": "c",
+            "stdio.h": "c",
+            "stdlib.h": "c",
+            "file_ops.h": "c",
+            "typeinfo": "c",
+            "string.h": "c",
+            "box.h": "c"
+      }
+  }
+  
