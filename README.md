@@ -2,8 +2,7 @@
 
 **Authors:**
 
-- **Fatma Zehra Tonga** (Student Number: 2121251015)
-- **Mehmet Taha Boynikoğlu** (Student Number: 2121251034)
+- **Mehmet Taha Boynikoğlu**
 
 **Department:** Software Engineering  
 **Instructor:** Ertuğrul İslamoğlu  
